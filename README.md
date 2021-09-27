@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mightywonton
 - 👀 I’m interested in ... IT, manga, anime, food, video games, running and music.
-- 🌱 I’m currently learning ... JavaScript, Python, PowerShell, bash, Cisco, VMware, and Microsoft Azure.
+- 🌱 I’m currently learning ... JavaScript, Python, PowerShell, bash, Cisco, VMware, Microsoft Azure and Linux.
 - 💞️ I’m looking to collaborate on ... anything! The tech ocean is huge!
 - 📫 How to reach me ... here????? I'm not very good at social media..
 
